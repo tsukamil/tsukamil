@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tsukamil
 - 👀 I’m interested in web & mobile development
-- 🌱 I’m currently learning Gatsby
+- ⚽ Football fan
 - 💞️ I love gamedev and retro gaming
+- 🌱 I’m currently learning Gatsby
 - 📫 Contact me: kamil[at]tiwilive.pl
 
 <!---
